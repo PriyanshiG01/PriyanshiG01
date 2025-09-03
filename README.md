@@ -3,7 +3,6 @@
 🎓 BTech CSE Student | 💻 Aspiring Full Stack Developer  
 🚀 Passionate about coding, problem-solving, and building impactful projects  
 📚 Currently learning *Java, DBMS, Frontend Development*  
-🎯 Goal: Achieve *9.5+ CGPA* and contribute to *Open Source*
 ## 🛠 Tech Stack
 - Languages: ![Java](https://img.shields.io/badge/Java-orange?logo=java) ![C](https://img.shields.io/badge/C-blue?logo=c) ![Python](https://img.shields.io/badge/Python-yellow?logo=python)  
 - Web: ![HTML](https://img.shields.io/badge/HTML5-red?logo=html5) ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
