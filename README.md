@@ -14,9 +14,5 @@
 - *Personal Portfolio Website* – Responsive portfolio showcasing skills & projects  
 - *Mini Calculator in Java* – Simple Java project for core logic building  
 - *Notes App (Frontend Project)* – Add, delete, and manage notes in the browser
-## 📊 GitHub Stats
-![Priyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
 ✨ “Code. Learn. Build. Repeat.”  
 ⚡ Fun fact: I love solving real-world problems with code!
