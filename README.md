@@ -13,6 +13,6 @@
 - *Student Management System (DBMS + Java)* – CRUD operations with MySQL backend  
 - *Personal Portfolio Website* – Responsive portfolio showcasing skills & projects  
 - *Mini Calculator in Java* – Simple Java project for core logic building  
-- *Notes App (Frontend Project)* – Add, delete, and manage notes in the browser
+- *Notes App (Frontend Project)* – Add, delete, and manage notes in the browser<br>
 ✨ “Code. Learn. Build. Repeat.”  <br>
 ⚡ Fun fact: I love solving real-world problems with code!
