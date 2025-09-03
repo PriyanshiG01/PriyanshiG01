@@ -14,5 +14,5 @@
 - *Personal Portfolio Website* – Responsive portfolio showcasing skills & projects  
 - *Mini Calculator in Java* – Simple Java project for core logic building  
 - *Notes App (Frontend Project)* – Add, delete, and manage notes in the browser
-✨ “Code. Learn. Build. Repeat.”  
+✨ “Code. Learn. Build. Repeat.”  <br>
 ⚡ Fun fact: I love solving real-world problems with code!
